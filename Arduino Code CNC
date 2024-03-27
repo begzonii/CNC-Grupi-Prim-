@@ -1,6 +1,4 @@
-/* 
- https://www.youtube.com/watch?v=opZ9RgmOIpc
-  */
+
 
 #include  <Servo.h>
 #include <AFMotor.h>

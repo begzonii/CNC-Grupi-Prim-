@@ -24,7 +24,7 @@ void openSerialPort()
   port  = new Serial(this, portname, 9600);
   
   port.bufferUntil('\n');
-}
+} 
 
 void  selectSerialPort()
 {
